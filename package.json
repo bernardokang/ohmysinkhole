@@ -2,7 +2,6 @@
   "name": "ohmysinkhole",
   "version": "1.0.0",
   "description": "OhMySinkHole",
-  "main": "index.js",
   "scripts": {
 "dev": "next dev",    
 "test": "echo \"Error: no test specified\" && exit 1"
